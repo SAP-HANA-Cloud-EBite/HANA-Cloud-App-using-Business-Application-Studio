@@ -1,0 +1,5 @@
+FlightNumber;DepartureAirport;ArrivalAirport;DepartureTimestamp;ArrivalTimestamp;AircraftId
+BA201;BLR;LCY;2020-01-01 09:20:00;2020-01-01 15:20:00; Aircraft_1001
+BA202;BLR;LHR;2020-01-02 12:00:00;2020-01-01 21:20:00; Aircraft_1002
+AK115;LHR;JFK;2020-01-01 16:20:00;2020-01-01 23:20:00; Aircraft_1003
+EK510;JFK;LHR;2020-01-02 09:20:00;2020-01-01 15:20:00; Aircraft_1004

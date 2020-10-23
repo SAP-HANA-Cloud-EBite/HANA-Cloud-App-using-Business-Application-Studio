@@ -1,0 +1,6 @@
+AircraftId;Manufacturer;Model;EconomyClassCapacity;BusinessClassCapacity
+Aircraft_1001;Boeing;B777;100;10
+Aircraft_1002;Boeing;B747;200;30
+Aircraft_1003;Airbus;A380;150;20
+Aircraft_1004;Airbus;A390;100;10
+Aircraft_1005;Bombardier;CRJ700;200;20
